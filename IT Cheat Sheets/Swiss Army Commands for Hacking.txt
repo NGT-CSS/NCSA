@@ -1,0 +1,3 @@
+Swiss Army commands:
+
+nmap -sC -sV -oN nmap.scan.txt <TARGET IP>
